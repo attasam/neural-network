@@ -1,2 +1,2 @@
 # neural-network
-2 layer nueral network
+2 layer neural network
